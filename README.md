@@ -124,7 +124,7 @@ gantt
 | 주차 | 주제/분량 | 발표/실험/리뷰 내용 | 담당자 | 결과물 |
 |:---:|:---|:---|:---:|:---|
 | **1주** | OT  | 스터디 계획 공유, 선형대수 복습 | 빌더 | Notion 페이지 |
-| **2주** | Predictors | 개념 설명 | 빌더 | 블로그, Colab |
+| **2주** | Predictors | 개념 설명 | 빌더 | [Colab](https://colab.research.google.com/drive/1JQVvTYTlIoM_x3_1dOwf9_5TJ0bE4CmN?usp=sharing) |
 | **3주** | Regularized Least Squares | 이론 발표 및 코드 구현 | 미정 | 블로그, Colab |
 | **4주** | ... | ... | 미정 | ... |
 | **...** | ... | ... | ... | ... |
