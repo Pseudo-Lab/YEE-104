@@ -125,7 +125,7 @@ gantt
 |:---:|:---|:---|:---:|:---|
 | **1주** | OT  | 스터디 계획 공유, 선형대수 복습 | 빌더 | Notion 페이지 |
 | **2주** | Predictors | 개념 설명 | 빌더 | [Colab](https://colab.research.google.com/drive/1JQVvTYTlIoM_x3_1dOwf9_5TJ0bE4CmN?usp=sharing) |
-| **3주** | Validation | 이론 발표 및 코드 구현 | 최서연님 | [Colab](https://colab.research.google.com/drive/1bTQENAYgfMmOIZ2w8-Ng3uSf7GMaU98N?usp=sharing) |
+| **3주** | Validation | 이론 발표 및 코드 구현 | 채서연님 | [Colab](https://colab.research.google.com/drive/1bTQENAYgfMmOIZ2w8-Ng3uSf7GMaU98N?usp=sharing) |
 | **4주** | ... | ... | 미정 | ... |
 | **...** | ... | ... | ... | ... |
 | **16주** | 최종 회고 및 프로젝트 정리 | 프로젝트 성과 공유 및 회고 | 전원 | 최종 결과물 |
