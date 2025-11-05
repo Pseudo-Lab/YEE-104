@@ -40,10 +40,10 @@ _"이론에서 실전까지, 함께 성장하는 머신러닝 실험실"_
 | 역할          | 이름 |  GitHub / Blog                                                                 | 주요 관심 분야                          |
 |---------------|------|--------------------------------------------------------------------------------|----------------------------------------|
 | **Builder**   | 임진우 | [GitHub](https://github.com/imrealhelper) / [Blog](https://jinwooimblog.vercel.app/) | 항공우주제어시스템, 머신러닝             |
-| **Runner(s)** | 권보원 | [GitHub](https://github.com/BowonKwon)|[Linkedin](https://www.linkedin.com/in/bowonkwon/) |
+| **Runner(s)** | 권보원 | [GitHub](https://github.com/BowonKwon)/[Linkedin](https://www.linkedin.com/in/bowonkwon/) |
 | **Runner(s)** | 변정우 | | |
-| **Runner(s)** | 윤혁진 |[Github](https://github.com/Bright-jeans) |[Linkedin](https://www.linkedin.com/in/hyeokjin-yoon-leo/) |
-| **Runner(s)** | 채서연 |[Github](https://www.linkedin.com/in/seoyeun-chae-a750181bb/) |[Linkedin](https://github.com/sychae2) |
+| **Runner(s)** | 윤혁진 |[Github](https://github.com/Bright-jeans) /[Linkedin](https://www.linkedin.com/in/hyeokjin-yoon-leo/) |
+| **Runner(s)** | 채서연 |[Github](https://www.linkedin.com/in/seoyeun-chae-a750181bb/) /[Linkedin](https://github.com/sychae2) |
 
 
 ## 🙋‍♂️ 모집 대상 (Who We're Looking For)
