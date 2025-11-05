@@ -127,6 +127,8 @@ gantt
 | **2주** | Predictors | 개념 설명 | 빌더 | [Colab](https://colab.research.google.com/drive/1JQVvTYTlIoM_x3_1dOwf9_5TJ0bE4CmN?usp=sharing) |
 | **3주** | Validation | 개념 설명 | 채서연님 | [Colab](https://colab.research.google.com/drive/1bTQENAYgfMmOIZ2w8-Ng3uSf7GMaU98N?usp=sharing) |
 | **4주** | Features | 개념 설명 | 윤혁진님 | [Colab](https://colab.research.google.com/drive/1uQf5jIfTdLAKotri7uZwFa4bq7tG8zuQ?usp=sharing) |
+| **5주** | Empharical Risk | 개념 설명 | 변정우님 | [Colab](https://colab.research.google.com/drive/1I7ffGpsEJ68LoBmkhegy0cH94y82Qxd6?usp=sharing) |
+| **6주** | Constant Predictors | 개념 설명 | 권보원님 | [Colab](https://colab.research.google.com/drive/1AFQJ51OhzuFUeYfxOgmZIEIcusyuyiS6?usp=sharing) |
 | **...** | ... | ... | ... | ... |
 | **16주** | 최종 회고 및 프로젝트 정리 | 프로젝트 성과 공유 및 회고 | 전원 | 최종 결과물 |
 
